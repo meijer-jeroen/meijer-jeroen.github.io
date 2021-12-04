@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeroen Meijer, computat"
+title: "Jeroen Meijer"
 excerpt: "About me"
 author_profile: true
 redirect_from:
