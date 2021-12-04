@@ -1,7 +1,7 @@
 ---
 title: "The why, what and how of predicting evolution across biology: from disease to biotechnology to biodiversity"
 collection: publications
-permalink: /publication/2021-predicting-evolution.md
+permalink: /publication/2021-predicting-evolution
 date: 2021-08-01
 venue: 'ecoevorxiv'
 paperurl: 'https://ecoevorxiv.org/4u3mg/download?format=pdf'
