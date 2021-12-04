@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Computational biologist"
   location         : "Utrecht, the Netherlands"
-  employer         :  " Utrecht University"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&pli=1&user=gX0Ki9kAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-3258-2431"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
